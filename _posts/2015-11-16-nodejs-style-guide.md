@@ -1,12 +1,16 @@
 ---
 layout: post
 title:  "Node.js Style Guide!"
+date:   2015-11-16 00:50:49 +0700
 category: post
 tags: nodejs
 ---
 
 This is a guide for writing consistent and aesthetically pleasing node.js code. It is inspired by what is popular within the community, and flavored with some personal opinions.
 <!--more-->
+
+See the source of this post at {% include icon-github.html username="duyetdev" %} / [node-style-guide](https://github.com/duyetdev/node-style-guide)
+
 # Table of contents
 
 * [1 Tab for indention](#tab-for-indention)
