@@ -9,7 +9,7 @@ categories: update
 
 JsLab launch at 15/11/2015. This place will hosted Nodejs and Javascript project. 
 
-Maintain by **duyetdev**
+Maintain by {% include icon-github.html username="duyetdev" %
 
 # How to contribute
 
