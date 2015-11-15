@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Static HTML Server"
+title:  "Nodejs - Static HTML Server"
 date:   2015-11-16 01:22:00 +0700
-category: post
+category: nodejs
 tags: nodejs
 ---
 
