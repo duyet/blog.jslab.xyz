@@ -8,12 +8,15 @@ tags: nodejs, machine learning
 
 # Vietnamse stopwords dictionary
 
->> Official: https://vietnamese-stopwords.jslab.xyz
+> Project site: [https://vietnamese-stopwords.jslab.xyz](https://vietnamese-stopwords.jslab.xyz)
 
 # Using 
 
-### Method 1: Copy `vietname-stopwords.txt` data file to your project.
-### Method 2: Using in Nodejs project
+### Method 1
+Copy `vietname-stopwords.txt` data file to your project.
+
+### Method 2
+Using in Nodejs project
 
 1. Install by `npm`
 ```sh
