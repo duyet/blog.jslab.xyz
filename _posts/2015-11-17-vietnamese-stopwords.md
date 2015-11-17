@@ -19,17 +19,17 @@ Copy `vietname-stopwords.txt` data file to your project.
 Using in Nodejs project
 
 1. Install by `npm`
-```sh
+{% highlight sh %}
 npm install vietnamese-stopwords
-```
+{% endhighlight %}
 
 2. Require in Nodejs code
-```js
+{% highlight js %}
 var stopwords = require('vietnamese-stopwords');
 
 console.log(stopwords);
 // [ 'bị', 'bởi', 'cả', 'các', 'cái', ...]
-```
+{% endhighlight %}
 
 # How to contribute
 1. Fork the project on Github
