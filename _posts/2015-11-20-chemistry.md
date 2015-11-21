@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Javascript - Balance Chemical Equation - Online Balancer"
-date:   2015-11-20 22:07:00 +0700
+date:   2015-11-20 22:08:00 +0700
 category: js
 tags: javascript
 ---
