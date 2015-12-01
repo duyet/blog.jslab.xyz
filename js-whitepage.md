@@ -50,58 +50,90 @@ problems when developing applications on Node.js.
 # References
 [1]: "Welcome! - The Apache HTTP Server Project," [WWW]: http://httpd.apache.org/.
 (24.05.2012).
+
 [2]: "Node.js," [WWW]: http://nodejs.org/. (22.05.2012).
+
 [3]: "Google- Company," [WWW]: http://www.google.com/about/company/. (22.05.2012).
+
 [4]: "About Microsoft: Your Potential. Our Passion.," [WWW]:
 http://www.microsoft.com/about/en/us/default.aspx. (22.05.2012).
+
 [5]: A. White, JavaScript Programmer's Reference, John Wiley & Sons, 2010.
+
 [6]: "Rhino History," [WWW]: http://www.mozilla.org/rhino/history.html. (22.05.2012).
+
 [7]: "JavaScript Overview," [WWW]: http://www.mozilla.org/rhino/overview.html.
 (22.05.2012).
+
 [8]: Google Inc, "v8 - V8 JavaScript engine," [WWW]: http://code.google.com/p/v8/.
 (22.05.2012).
+
 [9]: "Node.js ChangeLog," [WWW]: http://nodejs.org/changelog.html. (22.05.2012).
+
 [10]: C. Severance, "Java Script: Designing a Language in 10 Days," Computer, pp. 7-8,
 February 2012.
+
 [11]: J. Resig, "Chapter 2 - Object Oriented Javascript," in Pro JavaScript Techniques,
 2006, pp. 25-26.
+
 [12]: ECMA International, "ECMA International," [WWW]: http://www.ecmainternational.org/publications/files/ECMA-ST/Ecma-262.pdf.
 (22.05.2012).
+
 [13]: M. W. Tom Hughes-Croucher, "A Very Brief Introduction to Node.js," in Node: Up
 and Running: Scalable Server-Side Code with JavaScript, 2012, pp. 3-4.
+
 [14]: "npm - Node Package Manager," [WWW]: http://npmjs.org. (22.05.2012).
+
 [15]: "LinkedIn Mobile | LinkedIn," [WWW]: http://www.linkedin.com/static?key=mobile.
 (23.05.2012).
+
 [16]: "Windows Azure: Cloud Computing | Cloud Services | Cloud Application
 Development," [WWW]: http://www.windowsazure.com/en-us/. (23.05.2012).
+
 [17]: S. T. a. S. Vinoski, "Node.js: Using JavaScript to Build High-Performance Network
 Programs," Internet Computing, vol. 14, no. 6, pp. 80-83, 2010.
+
 [18]: "Aaronontheweb | Intro to Node.JS for .NET Developers," [WWW]: 
-54
-http://www.aaronstannard.com/post/2011/12/14/Intro-to-NodeJS-for-NETDevelopers.aspx.
-(22.05.2012).
+http://www.aaronstannard.com/post/2011/12/14/Intro-to-NodeJS-for-NETDevelopers.aspx. (22.05.2012).
+
 [19]: "Introduction to Node.js with Ryan Dahl - YouTube," [WWW]:
 http://www.youtube.com/watch?v=jo_B4LTHi3I. (22.05.2012).
+
 [20]: "ab - Apache HTTP server benchmarking tool," [WWW]:
 http://httpd.apache.org/docs/2.0/programs/ab.html. (22.05.2012).
+
 [21]: "Slowloris HTTP DoS," [WWW]: http://ha.ckers.org/slowloris/. (22.05.2012).
+
 [22]: "Nginx - Main," [WWW]: http://wiki.nginx.org/Main. (23.05.2012).
+
 [23]: "lighttpd fly light," [WWW]: http://www.lighttpd.net/. (23.05.2012).
+
 [24]: "Express - node web framework," [WWW]: http://expressjs.com/. (22.05.2012).
+
 [25]: "Jade - Template engine," [WWW]: http://jade-lang.com/. (22.05.2012).
+
 [26]: "Connect - High quality middleware for node.js," [WWW]:
 http://www.senchalabs.org/connect/. (22.05.2012).
+
 [27]: "28c3: Effective Denial of Service attacks against web application platforms,"
 [WWW]: http://www.youtube.com/watch?v=R2Cq3CLI6H8. (23.05.2012).
+
 [28]: "NPM - README," [WWW]: http://npmjs.org/doc/README.html. (23.05.2012).
+
 [29]: "CommonJS effort sets JavaScript on path for world domination | Ars Technica,"
 [WWW]: http://arstechnica.com/business/2009/12/commonjs-effort-sets-javascript-onpath-for-world-domination/.
+
 (23.05.2012).
+
 [30]: B. Sullivan, "Regular Expression Denial of Service Attacks and Defenses," MSDN
 Magazine, vol. 25, no. 5, pp. 82-85, 2010.
+
 [31]: "NPM - scripts," [WWW]: http://npmjs.org/doc/scripts.html. (23.05.2012).
+
 [32]: "Classes.Big Number - JSFromHell.com: JavaScript Repository," [WWW]:
 http://jsfromhell.com/classes/bignumber. (23.05.2012).
+
 [33]: "nodejitsu/forever," [WWW]: https://github.com/nodejitsu/forever/. (23.05.2012).
+
 [34]: "Ryan Dahl - History of Node.js - YouTube," [WWW]:
 http://www.youtube.com/watch?v=SAc0vQCC6UQ#!. (23.05.2012).
