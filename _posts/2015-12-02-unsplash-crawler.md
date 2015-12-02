@@ -17,27 +17,27 @@ Github: [https://github.com/duyetdev/unsplash-crawler](https://github.com/duyetd
 Require Nodejs, Npm, MongoDb
 
 1 - Clone the script 
-````
+{% highlight bash %}
 git clone https://github.com/duyetdev/unsplash-crawler && cd unsplash-crawler
-````
+{% endhighlight %}
 
 2 - Install node.js packages
-````
+{% highlight bash %}
 npm install
-````
+{% endhighlight %}
 
 3 - Config the crawler
 Open the *config.js* file and custom your config.
-````sh
+{% highlight bash %}
 nano config.js # Open the config.js file 
-````
+{% endhighlight %}
 
 <img src="http://i.imgur.com/b9jZtYi.png" />
 
 4 - Let's do it!
-````sh
+{% highlight bash %}
 node index.js
-````
+{% endhighlight %}
 
 <img src="http://i.imgur.com/R3vX2D3.png" />
 
